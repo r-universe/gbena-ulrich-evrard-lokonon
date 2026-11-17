@@ -1,5 +1,7 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/gbena-ulrich-evrard-lokonon/gbena-ulrich-evrard-lokonon.r-universe.dev
 	branch = HEAD
+[submodule "sampleid"]
+	path = sampleid
+	url = https://github.com/gbena-ulrich-evrard-lokon/sampleid
